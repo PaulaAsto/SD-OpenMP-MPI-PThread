@@ -1,1 +1,0 @@
-# SD-OpenMP-MPI-PThread
